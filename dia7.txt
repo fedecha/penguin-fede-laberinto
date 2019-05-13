@@ -1,0 +1,14 @@
+# ## comandos de GIT
+
+"""
+git add .
+git commit -m "el mensaje"
+git push
+git pull
+"""
+#comandos para navegar en la terminal
+
+"""
+ls o dir         (para ver los documentos existentes)
+#cd nombre_de_archivo      (para entrar en el archivo)
+cd ..                  (para salir del archivo)
